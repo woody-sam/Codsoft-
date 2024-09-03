@@ -1,2 +1,2 @@
-# Codsoft-
+# Java Projects-
 java programming internship 
